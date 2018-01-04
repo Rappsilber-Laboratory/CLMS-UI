@@ -170,7 +170,7 @@
                         onclick="window.location = '../history/history.html';" 
                         title="Return to search history / Login"></i>
                     <i class="fa fa-github fa-xi" 
-                        onclick="window.open('https://github.com/Rappsilber-Laboratory/xi3-issue-tracker/issues', '_blank');" 
+                        onclick="window.open('https://github.com/Rappsilber-Laboratory/xiUI/issues', '_blank');" 
                         title="GitHub issue tracker (You must be logged in to GitHub to view.)"></i>
                     <p id="loadDropdownPlaceholder"></p>
                     <p id="viewDropdownPlaceholder"></p>
